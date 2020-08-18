@@ -1,4 +1,4 @@
-# EduGorilla_internship_task
+
 A blog site made using Python and Django - a python web framework. This is like a regular blog. The user can create posts, edit/update them and delete them.
 The user also has a choice to either pulish their posts or keep them as drafts which can then later be published.
 The user can also post comments on each other's posts and have functionality to either approve or not approve comments.
